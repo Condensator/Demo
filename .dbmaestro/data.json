@@ -2,37 +2,16 @@
   "Projects": [
     {
       "GlobalData": {
-        "ProjectName": "TestPrj1",
+        "ProjectName": "MSSQL project1",
         "DBTypeName": "SQL Server",
-        "Environments": [
-          {
-            "EnvironmentName": "Dev_Env_1",
-            "EnvironmentType": "Dev_Env_1",
-            "Databases": [
-              {
-                "ProjectName": "TestPrj1",
-                "EnvType": "Dev_Env_1",
-                "EnvironmentName": "Dev_Env_1",
-                "DatabaseAliasName": "Data Source=LAPTOP-FUME900I;Initial Catalog=testdb1;Persist Security Info=True;User ID=sa;Password=123456",
-                "DBTypeName": "SQL Server"
-              }
-            ]
-          }
-        ],
+        "Environments": null,
         "SourceControlPathType": 0,
         "RepositoryDetails": null,
         "Configuration": {
           "BuildMigrationScriptAutomatically": false
         }
       },
-      "UserData": [
-        {
-          "UserName": "Condensator",
-          "ConnectionStrings": {
-            "dev_env_1\\dev_env_1\\data source=laptop-fume900i;initial catalog=testdb1;persist security info=true;user id=sa;password=123456": "DEV"
-          }
-        }
-      ]
+      "UserData": null
     }
   ]
 }
