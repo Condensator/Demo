@@ -15,6 +15,13 @@
                 "EnvironmentName": "Dev_Env_1",
                 "DatabaseAliasName": "Database 1",
                 "DBTypeName": "SQL Server"
+              },
+              {
+                "ProjectName": "MSSQL project1",
+                "EnvType": "DEV",
+                "EnvironmentName": "Dev_Env_1",
+                "DatabaseAliasName": "Database 1",
+                "DBTypeName": "SQL Server"
               }
             ]
           }
@@ -37,7 +44,7 @@
             "Password": "ctr14cMFNVwCz0440DPPpDl2F5kDRONX3jh2csWxKvBmlwZXX6FkjkVvq0f18PU8djXW2GqTvQyYoK3rmVUV6aoyatnt2Mj/TWn/zeknKp8="
           },
           "ConnectionStrings": {
-            "dev\\dev_env_1\\database 1": "Data Source=LAPTOP-FUME900I;Initial Catalog=testdb1;Persist Security Info=True;User ID=sa;Password=123456"
+            "dev\\dev_env_1\\database 1": "Data Source=LAPTOP-FUME900I;Initial Catalog=testdb2;Persist Security Info=True;User ID=sa;Password=123456"
           }
         }
       ]
