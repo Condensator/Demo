@@ -4,7 +4,21 @@
       "GlobalData": {
         "ProjectName": "MSSQL project1",
         "DBTypeName": "SQL Server",
-        "Environments": null,
+        "Environments": [
+          {
+            "EnvironmentName": "Dev_Env_1",
+            "EnvironmentType": "DEV",
+            "Databases": [
+              {
+                "ProjectName": "MSSQL project1",
+                "EnvType": "DEV",
+                "EnvironmentName": "Dev_Env_1",
+                "DatabaseAliasName": "Database 1",
+                "DBTypeName": "SQL Server"
+              }
+            ]
+          }
+        ],
         "SourceControlPathType": 0,
         "RepositoryDetails": {
           "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
@@ -22,7 +36,9 @@
             "UserName": "Condensator",
             "Password": "wGjofUiR/Nki4hKanuf4D+SfHBBrV8wTuiphIl4mFYVMKaI0Ai0pP+3xg/RrrGas"
           },
-          "ConnectionStrings": {}
+          "ConnectionStrings": {
+            "dev\\dev_env_1\\database 1": "Data Source=LAPTOP-FUME900I;Initial Catalog=testdb1;Persist Security Info=True;User ID=sa;Password=123456"
+          }
         }
       ]
     }
