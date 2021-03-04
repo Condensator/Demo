@@ -39,16 +39,7 @@
           "ConnectionStrings": {
             "dev\\dev_env_1\\database 1": "Data Source=LAPTOP-FUME900I;Initial Catalog=testdb1;Persist Security Info=True;User ID=sa;Password=123456"
           }
-        },
-		{
-          "UserName": "User 1",
-          "RepositoryCredentials": {
-            "UserName": "Condensator",
-            "Password": "ctr14cMFNVwCz0440DPPpDl2F5kDRONX3jh2csWxKvBmlwZXX6FkjkVvq0f18PU8djXW2GqTvQyYoK3rmVUV6aoyatnt2Mj/TWn/zeknKp8="
-          },
-          "ConnectionStrings": {
-            "dev\\dev_env_1\\database 1": "Data Source=LAPTOP-FUME900I;Initial Catalog=testdb2;Persist Security Info=True;User ID=sa;Password=123456"
-          }
+        }
         }
       ]
     }
