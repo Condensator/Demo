@@ -39,7 +39,7 @@
           "ConnectionStrings": {
             "dev\\dev_env_1\\database 1": "Data Source=LAPTOP-FUME900I;Initial Catalog=testdb1;Persist Security Info=True;User ID=sa;Password=123456"
           }
-        }
+        
         }
       ]
     }
