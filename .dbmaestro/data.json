@@ -1,0 +1,30 @@
+{
+  "Projects": [
+    {
+      "GlobalData": {
+        "ProjectName": "MSSQL project1",
+        "DBTypeName": "SQL Server",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "RepositoryDetails": {
+          "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
+          "RemoteRepositoryDirectory": "https://github.com/Condensator/Demo.git",
+          "BranchName": "master"
+        },
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": false
+        }
+      },
+      "UserData": [
+        {
+          "UserName": "Condensator",
+          "RepositoryCredentials": {
+            "UserName": "Condensator",
+            "Password": "wGjofUiR/Nki4hKanuf4D+SfHBBrV8wTuiphIl4mFYVMKaI0Ai0pP+3xg/RrrGas"
+          },
+          "ConnectionStrings": {}
+        }
+      ]
+    }
+  ]
+}
