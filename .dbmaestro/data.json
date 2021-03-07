@@ -30,16 +30,7 @@
         }
       },
       "UserData": [
-        {
-          "UserName": "Condensator",
-          "RepositoryCredentials": {
-            "UserName": "Condensator",
-            "Password": "wGjofUiR/Nki4hKanuf4D+SfHBBrV8wTuiphIl4mFYVMKaI0Ai0pP+3xg/RrrGas"
-          },
-          "ConnectionStrings": {
-            "dev\\dev_env_1\\database 1": "Data Source=LAPTOP-FUME900I;Initial Catalog=testdb1;Persist Security Info=True;User ID=sa;Password=123456"
-          }
-        },
+        
         {
           "UserName": "dbmisrael",
           "RepositoryCredentials": {
