@@ -39,6 +39,14 @@
           "ConnectionStrings": {
             "dev\\dev_env_1\\database 1": "Data Source=LAPTOP-FUME900I;Initial Catalog=testdb1;Persist Security Info=True;User ID=sa;Password=123456"
           }
+        },
+        {
+          "UserName": "dbmsasha",
+          "RepositoryCredentials": {
+            "UserName": "dbmsasha",
+            "Password": "8gPUtSoh3PQ3G2pb6TuejzqG3N5iu7IS0u2XJcI7qnmHdSHiwh0bi8pIm35trL5k"
+          },
+          "ConnectionStrings": {}
         }
       ]
     }
