@@ -34,7 +34,7 @@
           "UserName": "Condensator",
           "RepositoryCredentials": {
             "UserName": "Condensator",
-            "Password": "ea8yGmw+Ej86bcCmU276W0MIxBY+HgVL69KchuT36x/ny5AVuK0vTi9dYO+BpFRQ"
+            "Password": "+iSgx8n8bVPgmOiHpfD3Ng=="
           },
           "ConnectionStrings": {
             "dev\\dev_env_1\\database 1": "Data Source=LAPTOP-FUME900I;Initial Catalog=testdb1;Persist Security Info=True;User ID=sa;Password=123456"
