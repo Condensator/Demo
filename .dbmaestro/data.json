@@ -77,6 +77,32 @@
           "ConnectionStrings": {}
         }
       ]
+    },
+    {
+      "GlobalData": {
+        "ProjectName": "test",
+        "DBTypeName": "",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "RepositoryDetails": {
+          "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
+          "RemoteRepositoryDirectory": "",
+          "BranchName": ""
+        },
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": false
+        }
+      },
+      "UserData": [
+        {
+          "UserName": "",
+          "RepositoryCredentials": {
+            "UserName": "",
+            "Password": "QWo3AP/ULXVeXSkgSjHYPw=="
+          },
+          "ConnectionStrings": {}
+        }
+      ]
     }
   ]
 }
