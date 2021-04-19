@@ -106,24 +106,6 @@
           "DatabasesData": []
         }
       ]
-    },
-    {
-      "GlobalData": {
-        "ProjectId": "3634b36d-40b4-4a52-8918-7e3cd5e95447",
-        "ProjectName": "test",
-        "DBTypeName": "Postgres",
-        "Environments": null,
-        "SourceControlPathType": 0,
-        "Configuration": {
-          "BuildMigrationScriptAutomatically": false
-        }
-      },
-      "UserData": [
-        {
-          "UserName": "Condensator",
-          "DatabasesData": []
-        }
-      ]
     }
   ]
 }
