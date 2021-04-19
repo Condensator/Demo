@@ -55,24 +55,6 @@
     },
     {
       "GlobalData": {
-        "ProjectId": null,
-        "ProjectName": "test",
-        "DBTypeName": "",
-        "Environments": null,
-        "SourceControlPathType": 0,
-        "Configuration": {
-          "BuildMigrationScriptAutomatically": false
-        }
-      },
-      "UserData": [
-        {
-          "UserName": "",
-          "DatabasesData": null
-        }
-      ]
-    },
-    {
-      "GlobalData": {
         "ProjectId": "e8169a3a-acee-45e0-821d-b236c9f71ee2",
         "ProjectName": "tywtdey",
         "DBTypeName": "Postgres",
