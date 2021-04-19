@@ -2,29 +2,24 @@
   "Projects": [
     {
       "GlobalData": {
+        "ProjectId": null,
         "ProjectName": "MSSQL project1",
         "DBTypeName": "SQL Server",
         "Environments": [
           {
+            "EnvironmentId": null,
             "EnvironmentName": "Dev_Env_1",
             "EnvironmentType": "DEV",
             "Databases": [
               {
-                "ProjectName": "MSSQL project1",
-                "EnvType": "DEV",
-                "EnvironmentName": "Dev_Env_1",
+                "DatabaseId": null,
                 "DatabaseAliasName": "Database 1",
-                "DBTypeName": "SQL Server"
+                "RepositoryDetails": null
               }
             ]
           }
         ],
         "SourceControlPathType": 0,
-        "RepositoryDetails": {
-          "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
-          "RemoteRepositoryDirectory": "https://github.com/Condensator/Demo.git",
-          "BranchName": "master"
-        },
         "Configuration": {
           "BuildMigrationScriptAutomatically": false
         }
@@ -32,37 +27,21 @@
       "UserData": [
         {
           "UserName": "Condensator",
-          "RepositoryCredentials": {
-            "UserName": "Condensator",
-            "Password": "+iSgx8n8bVPgmOiHpfD3Ng=="
-          },
-          "ConnectionStrings": {
-            "dev\\dev_env_1\\database 1": "Data Source=LAPTOP-FUME900I;Initial Catalog=testdb1;Persist Security Info=True;User ID=sa;Password=123456"
-          }
+          "DatabasesData": null
         },
         {
           "UserName": "dbmsasha",
-          "RepositoryCredentials": {
-            "UserName": "dbmsasha",
-            "Password": "8gPUtSoh3PQ3G2pb6TuejzqG3N5iu7IS0u2XJcI7qnmHdSHiwh0bi8pIm35trL5k"
-          },
-          "ConnectionStrings": {
-            "dev\\dev_env_1\\database 1": "Data Source=LAPTOP-FUME900I;Initial Catalog=testdb2;Persist Security Info=True;User ID=sa;Password=123456"
-          }
+          "DatabasesData": null
         }
       ]
     },
     {
       "GlobalData": {
+        "ProjectId": null,
         "ProjectName": "",
         "DBTypeName": "",
         "Environments": null,
         "SourceControlPathType": 0,
-        "RepositoryDetails": {
-          "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
-          "RemoteRepositoryDirectory": "",
-          "BranchName": ""
-        },
         "Configuration": {
           "BuildMigrationScriptAutomatically": false
         }
@@ -70,25 +49,17 @@
       "UserData": [
         {
           "UserName": "",
-          "RepositoryCredentials": {
-            "UserName": "",
-            "Password": "QWo3AP/ULXVeXSkgSjHYPw=="
-          },
-          "ConnectionStrings": {}
+          "DatabasesData": null
         }
       ]
     },
     {
       "GlobalData": {
+        "ProjectId": null,
         "ProjectName": "test",
         "DBTypeName": "",
         "Environments": null,
         "SourceControlPathType": 0,
-        "RepositoryDetails": {
-          "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
-          "RemoteRepositoryDirectory": "",
-          "BranchName": ""
-        },
         "Configuration": {
           "BuildMigrationScriptAutomatically": false
         }
@@ -96,11 +67,25 @@
       "UserData": [
         {
           "UserName": "",
-          "RepositoryCredentials": {
-            "UserName": "",
-            "Password": "QWo3AP/ULXVeXSkgSjHYPw=="
-          },
-          "ConnectionStrings": {}
+          "DatabasesData": null
+        }
+      ]
+    },
+    {
+      "GlobalData": {
+        "ProjectId": "e8169a3a-acee-45e0-821d-b236c9f71ee2",
+        "ProjectName": "tywtdey",
+        "DBTypeName": "Postgres",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": false
+        }
+      },
+      "UserData": [
+        {
+          "UserName": "Condensator",
+          "DatabasesData": []
         }
       ]
     }
